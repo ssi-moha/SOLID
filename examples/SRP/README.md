@@ -22,7 +22,7 @@ Comment éviter cela ?
 Il est difficile de trouver un exemple parlant mais je vais m'y risquer.
 
 Dans cet exemple, vous allez voir que les responsabilités seront confondues.
-Premièrement, nous écrivons une classe `Person` qui modélise l'identité d'une personne (nom et prénom), et une fonction pour noter le nom complet dans une liste blanche.
+Premièrement, nous écrivons un type `Person` (et son implémentation) qui modélise l'identité d'une personne (nom et prénom), et une fonction pour noter le nom complet dans une liste blanche.
 
 ```
 import fs from "fs";
