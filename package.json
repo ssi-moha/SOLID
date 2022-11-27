@@ -1,0 +1,11 @@
+{
+  "name": "SOLID",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ssi-moha/SOLID.git",
+  "author": "Sinane <sin.sim@outlook.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
+}
