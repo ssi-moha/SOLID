@@ -5,7 +5,13 @@
   "repository": "https://github.com/ssi-moha/SOLID.git",
   "author": "Sinane <sin.sim@outlook.fr>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
   }
 }
